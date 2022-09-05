@@ -1,4 +1,5 @@
-#pragma once
+#ifndef ESTRUTURAS_H
+#define ESTRUTURAS_H
 
 #include <pthread.h>
 
@@ -19,3 +20,5 @@ typedef struct {
   int thread_id;
   int num_threads;
 } ThreadArgs;
+
+#endif // ESTRUTURAS_H
