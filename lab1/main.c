@@ -2,7 +2,6 @@
 // Laboratório 1
 #include "estruturas.h"
 #include "aguarda_execucao_threads.h"
-#include "aumenta_valor.h"
 #include "cria_threads.h"
 #include "inicializa_vetor.h"
 #include "verifica_valores.h"
