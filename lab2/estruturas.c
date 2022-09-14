@@ -13,15 +13,15 @@ void InstanciaMatriz(Matriz* matriz, int num_linhas, int num_colunas) {
   }
 }
 
-void LeMatriz(Matriz* matriz, char* nome_arquivo) {
+void LeMatriz(Matriz* matriz) {
   FILE* arquivo;
   size_t ret; // retorno da função de leitura
   int num_linhas;
   int num_colunas;
 
-  arquivo = fopen(nome_arquivo, "rb");
+  arquivo = fopen(matriz->nome_arquivo, "rb");
   if (!arquivo) {
-    fprintf(stderr, "Não foi possível abrir o arquivo: %s\n", nome_arquivo);
+    fprintf(stderr, "Não foi possível abrir o arquivo: %s\n", matriz->nome_arquivo);
     exit(2);
   }
   
@@ -49,13 +49,13 @@ void LeMatriz(Matriz* matriz, char* nome_arquivo) {
   fclose(arquivo);
 }
 
-void EscreveMatriz(Matriz* matriz, char* nome_arquivo) {
+void EscreveMatriz(Matriz* matriz) {
   FILE* arquivo;
   size_t ret; // retorno da função de escrita
 
-  arquivo = fopen(nome_arquivo, "wb");
+  arquivo = fopen(matriz->nome_arquivo, "wb");
   if (!arquivo) {
-    fprintf(stderr, "Não foi possível criar o arquivo: %s\n", nome_arquivo);
+    fprintf(stderr, "Não foi possível criar o arquivo: %s\n", matriz->nome_arquivo);
     exit(2);
   }
 

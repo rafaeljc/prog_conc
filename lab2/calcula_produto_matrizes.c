@@ -19,9 +19,7 @@ void CalculaProdutoMatrizes() {
       // calcula o produto interno
       float soma = 0.0;
       for (int k = 0; k < matriz_1.num_colunas; k++) {
-        float a = matriz_1.elementos[i*matriz_1.num_colunas + k];
-        float b = matriz_2.elementos[k*matriz_2.num_colunas + j];
-        soma += a*b;
+        soma += matriz_1.elementos[i*matriz_1.num_colunas + k] * matriz_2.elementos[k*matriz_2.num_colunas + j];
       }
       matriz_saida.elementos[i*matriz_saida.num_colunas + j] = soma;
     }

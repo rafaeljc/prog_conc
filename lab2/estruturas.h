@@ -2,12 +2,13 @@
 #define ESTRUTURAS_H
 
 typedef struct {
+  char* nome_arquivo;
   float* elementos;
   int num_linhas;
   int num_colunas;
 } Matriz;
 void InstanciaMatriz(Matriz* matriz, int num_linhas, int num_colunas);
-void LeMatriz(Matriz* matriz, char* nome_arquivo);
-void EscreveMatriz(Matriz* matriz, char* nome_arquivo);
+void LeMatriz(Matriz* matriz);
+void EscreveMatriz(Matriz* matriz);
 
 #endif // ESTRUTURAS_H
