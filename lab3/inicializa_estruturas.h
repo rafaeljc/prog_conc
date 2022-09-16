@@ -1,0 +1,6 @@
+#ifndef INICIALIZA_ESTRUTURAS_H
+#define INICIALIZA_ESTRUTURAS_H
+
+void InicializaEstruturas();
+
+#endif // INICIALIZA_ESTRUTURAS_H
