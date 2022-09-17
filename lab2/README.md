@@ -146,10 +146,10 @@ Pelos dados obtidos, percebe-se que a multiplicação das matrizes é responsáv
 - Processamento: 119.378685
 - Finalização: 0.059459
 
-Após aplicar a lei, considerando o uso de **4 fluxos de execução** na versão concorrente, foram encontrados os seguintes valores:
+Após aplicar a lei, considerando o uso de **2 fluxos de execução** na versão concorrente, foram encontrados os seguintes valores:
 
-- 500x500: 1.075125 / 0.2740635 = 3.922904728
-- 1000x1000: 9.226724 / 2.3351225 = 3.9512805
-- 2000x2000: 119.467145 / 29.93313125 = 3.991134239
+- 500x500: 1.075125 / 0.541084 = 1.986983537
+- 1000x1000: 9.226724 / 4.632323 = 1.991813611
+- 2000x2000: 119.467145 / 59.7778025 = 1.998520186
 
-Pelo resultado, conclui-se que teríamos uma execução pelo menos 3.92 vezes mais rápida se for utilizada uma versão concorrente.
+Pelo resultado, conclui-se que teríamos uma execução pelo menos 1.98 vezes mais rápida se for utilizada uma versão concorrente.
