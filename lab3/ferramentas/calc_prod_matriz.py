@@ -17,7 +17,7 @@ def le_matriz(nome_arquivo):
         matriz = np.array(matriz).reshape(num_linhas, num_colunas)
     return matriz
 
-def main(argv):    
+def main(argv):
     m1 = le_matriz(argv[0])
     m2 = le_matriz(argv[1])
     m3 = le_matriz(argv[2])
@@ -31,4 +31,8 @@ def main(argv):
     return
 
 if __name__ == '__main__':
+    if len(sys.argv) != 4:
+        print('Argumento inválido ou inexistente!')
+        print(f'Uso: python3 {sys.argv[0]} <matriz 1> <matriz 2> <matriz produto>')
+        exit(1)
     main(sys.argv[1:])
