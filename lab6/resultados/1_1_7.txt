@@ -1,0 +1,590 @@
+T1(0): Começou.
+ E(0): Quer escrever.
+ E(0): Finalizou a escrita.
+T1(0): Terminou.
+T3(3): Começou.
+ L(3): Quer ler.
+T3(3): O valor é: 1
+ L(3): Finalizou a leitura.
+ E(3): Quer escrever.
+ E(3): Finalizou a escrita.
+T3(3): Terminou.
+T3(4): Começou.
+ L(4): Quer ler.
+T3(4): O valor é: 3
+ L(4): Finalizou a leitura.
+ E(4): Quer escrever.
+ E(4): Finalizou a escrita.
+T3(4): Terminou.
+T2(1): Começou.
+ L(1): Quer ler.
+T2(1): 4 é um valor par.
+ L(1): Finalizou a leitura.
+T2(1): Terminou.
+T3(2): Começou.
+ L(2): Quer ler.
+T3(2): O valor é: 4
+ L(2): Finalizou a leitura.
+ E(2): Quer escrever.
+ E(2): Finalizou a escrita.
+T3(2): Terminou.
+T3(5): Começou.
+ L(5): Quer ler.
+T3(5): O valor é: 2
+ L(5): Finalizou a leitura.
+ E(5): Quer escrever.
+ E(5): Finalizou a escrita.
+T3(5): Terminou.
+T3(6): Começou.
+ L(6): Quer ler.
+T3(6): O valor é: 5
+ L(6): Finalizou a leitura.
+ E(6): Quer escrever.
+ E(6): Finalizou a escrita.
+T3(6): Terminou.
+T3(7): Começou.
+ L(7): Quer ler.
+T3(7): O valor é: 6
+ L(7): Finalizou a leitura.
+ E(7): Quer escrever.
+ E(7): Finalizou a escrita.
+T3(7): Terminou.
+T3(8): Começou.
+ L(8): Quer ler.
+T3(8): O valor é: 7
+ L(8): Finalizou a leitura.
+ E(8): Quer escrever.
+ E(8): Finalizou a escrita.
+T3(8): Terminou.
+--- TAREFAS CONCLUÍDAS ---
+T1(0): Começou.
+ E(0): Quer escrever.
+ E(0): Finalizou a escrita.
+T1(0): Terminou.
+T3(5): Começou.
+ L(5): Quer ler.
+T3(5): O valor é: 1
+ L(5): Finalizou a leitura.
+ E(5): Quer escrever.
+ E(5): Finalizou a escrita.
+T3(5): Terminou.
+T3(8): Começou.
+ L(8): Quer ler.
+T3(8): O valor é: 5
+ L(8): Finalizou a leitura.
+ E(8): Quer escrever.
+ E(8): Finalizou a escrita.
+T3(8): Terminou.
+T3(3): Começou.
+ L(3): Quer ler.
+T3(3): O valor é: 8
+ L(3): Finalizou a leitura.
+ E(3): Quer escrever.
+ E(3): Finalizou a escrita.
+T3(3): Terminou.
+T2(1): Começou.
+ L(1): Quer ler.
+T2(1): 3 é um valor ímpar.
+ L(1): Finalizou a leitura.
+T2(1): Terminou.
+T3(4): Começou.
+ L(4): Quer ler.
+T3(4): O valor é: 3
+ L(4): Finalizou a leitura.
+ E(4): Quer escrever.
+ E(4): Finalizou a escrita.
+T3(4): Terminou.
+T3(6): Começou.
+ L(6): Quer ler.
+T3(6): O valor é: 4
+ L(6): Finalizou a leitura.
+ E(6): Quer escrever.
+ E(6): Finalizou a escrita.
+T3(6): Terminou.
+T3(7): Começou.
+ L(7): Quer ler.
+T3(7): O valor é: 6
+ L(7): Finalizou a leitura.
+ E(7): Quer escrever.
+ E(7): Finalizou a escrita.
+T3(7): Terminou.
+T3(2): Começou.
+ L(2): Quer ler.
+T3(2): O valor é: 7
+ L(2): Finalizou a leitura.
+ E(2): Quer escrever.
+ E(2): Finalizou a escrita.
+T3(2): Terminou.
+--- TAREFAS CONCLUÍDAS ---
+T3(2): Começou.
+ L(2): Quer ler.
+T3(2): O valor é: 0
+ L(2): Finalizou a leitura.
+ E(2): Quer escrever.
+ E(2): Finalizou a escrita.
+T3(2): Terminou.
+T2(1): Começou.
+ L(1): Quer ler.
+T2(1): 2 é um valor par.
+ L(1): Finalizou a leitura.
+T2(1): Terminou.
+T3(4): Começou.
+ L(4): Quer ler.
+T3(4): O valor é: 2
+ L(4): Finalizou a leitura.
+ E(4): Quer escrever.
+ E(4): Finalizou a escrita.
+T3(4): Terminou.
+T1(0): Começou.
+ E(0): Quer escrever.
+ E(0): Finalizou a escrita.
+T1(0): Terminou.
+T3(5): Começou.
+ L(5): Quer ler.
+T3(5): O valor é: 5
+ L(5): Finalizou a leitura.
+ E(5): Quer escrever.
+ E(5): Finalizou a escrita.
+T3(5): Terminou.
+T3(6): Começou.
+ L(6): Quer ler.
+T3(6): O valor é: 5
+ L(6): Finalizou a leitura.
+ E(6): Quer escrever.
+ E(6): Finalizou a escrita.
+T3(6): Terminou.
+T3(8): Começou.
+ L(8): Quer ler.
+T3(8): O valor é: 6
+ L(8): Finalizou a leitura.
+ E(8): Quer escrever.
+ E(8): Finalizou a escrita.
+T3(8): Terminou.
+T3(3): Começou.
+ L(3): Quer ler.
+T3(3): O valor é: 8
+ L(3): Finalizou a leitura.
+ E(3): Quer escrever.
+ E(3): Finalizou a escrita.
+T3(3): Terminou.
+T3(7): Começou.
+ L(7): Quer ler.
+T3(7): O valor é: 3
+ L(7): Finalizou a leitura.
+ E(7): Quer escrever.
+ E(7): Finalizou a escrita.
+T3(7): Terminou.
+--- TAREFAS CONCLUÍDAS ---
+T1(0): Começou.
+ E(0): Quer escrever.
+ E(0): Finalizou a escrita.
+T1(0): Terminou.
+T3(2): Começou.
+ L(2): Quer ler.
+T3(2): O valor é: 1
+ L(2): Finalizou a leitura.
+ E(2): Quer escrever.
+ E(2): Finalizou a escrita.
+T3(2): Terminou.
+T2(1): Começou.
+ L(1): Quer ler.
+T2(1): 2 é um valor par.
+ L(1): Finalizou a leitura.
+T2(1): Terminou.
+T3(4): Começou.
+ L(4): Quer ler.
+T3(4): O valor é: 2
+ L(4): Finalizou a leitura.
+ E(4): Quer escrever.
+ E(4): Finalizou a escrita.
+T3(4): Terminou.
+T3(7): Começou.
+ L(7): Quer ler.
+T3(7): O valor é: 4
+ L(7): Finalizou a leitura.
+ E(7): Quer escrever.
+ E(7): Finalizou a escrita.
+T3(7): Terminou.
+T3(8): Começou.
+ L(8): Quer ler.
+T3(8): O valor é: 7
+ L(8): Finalizou a leitura.
+ E(8): Quer escrever.
+ E(8): Finalizou a escrita.
+T3(8): Terminou.
+T3(5): Começou.
+ L(5): Quer ler.
+T3(5): O valor é: 8
+ L(5): Finalizou a leitura.
+ E(5): Quer escrever.
+ E(5): Finalizou a escrita.
+T3(5): Terminou.
+T3(3): Começou.
+ L(3): Quer ler.
+T3(3): O valor é: 5
+ L(3): Finalizou a leitura.
+ E(3): Quer escrever.
+ E(3): Finalizou a escrita.
+T3(3): Terminou.
+T3(6): Começou.
+ L(6): Quer ler.
+T3(6): O valor é: 3
+ L(6): Finalizou a leitura.
+ E(6): Quer escrever.
+ E(6): Finalizou a escrita.
+T3(6): Terminou.
+--- TAREFAS CONCLUÍDAS ---
+T1(0): Começou.
+ E(0): Quer escrever.
+ E(0): Finalizou a escrita.
+T1(0): Terminou.
+T3(3): Começou.
+ L(3): Quer ler.
+T3(3): O valor é: 1
+ L(3): Finalizou a leitura.
+ E(3): Quer escrever.
+ E(3): Finalizou a escrita.
+T3(3): Terminou.
+T3(4): Começou.
+ L(4): Quer ler.
+T3(4): O valor é: 3
+ L(4): Finalizou a leitura.
+ E(4): Quer escrever.
+ E(4): Finalizou a escrita.
+T3(4): Terminou.
+T3(8): Começou.
+ L(8): Quer ler.
+T3(8): O valor é: 4
+ L(8): Finalizou a leitura.
+ E(8): Quer escrever.
+ E(8): Finalizou a escrita.
+T3(8): Terminou.
+T2(1): Começou.
+ L(1): Quer ler.
+T2(1): 8 é um valor par.
+ L(1): Finalizou a leitura.
+T2(1): Terminou.
+T3(2): Começou.
+ L(2): Quer ler.
+T3(2): O valor é: 8
+ L(2): Finalizou a leitura.
+ E(2): Quer escrever.
+ E(2): Finalizou a escrita.
+T3(2): Terminou.
+T3(5): Começou.
+ L(5): Quer ler.
+T3(5): O valor é: 2
+ L(5): Finalizou a leitura.
+ E(5): Quer escrever.
+ E(5): Finalizou a escrita.
+T3(5): Terminou.
+T3(6): Começou.
+ L(6): Quer ler.
+T3(6): O valor é: 5
+ L(6): Finalizou a leitura.
+ E(6): Quer escrever.
+ E(6): Finalizou a escrita.
+T3(6): Terminou.
+T3(7): Começou.
+ L(7): Quer ler.
+T3(7): O valor é: 6
+ L(7): Finalizou a leitura.
+ E(7): Quer escrever.
+ E(7): Finalizou a escrita.
+T3(7): Terminou.
+--- TAREFAS CONCLUÍDAS ---
+T2(1): Começou.
+ L(1): Quer ler.
+T2(1): 0 é um valor par.
+ L(1): Finalizou a leitura.
+T2(1): Terminou.
+T1(0): Começou.
+ E(0): Quer escrever.
+ E(0): Finalizou a escrita.
+T1(0): Terminou.
+T3(3): Começou.
+ L(3): Quer ler.
+T3(3): O valor é: 1
+ L(3): Finalizou a leitura.
+ E(3): Quer escrever.
+ E(3): Finalizou a escrita.
+T3(3): Terminou.
+T3(2): Começou.
+ L(2): Quer ler.
+T3(2): O valor é: 3
+ L(2): Finalizou a leitura.
+ E(2): Quer escrever.
+ E(2): Finalizou a escrita.
+T3(2): Terminou.
+T3(4): Começou.
+ L(4): Quer ler.
+T3(4): O valor é: 2
+ L(4): Finalizou a leitura.
+ E(4): Quer escrever.
+ E(4): Finalizou a escrita.
+T3(4): Terminou.
+T3(6): Começou.
+ L(6): Quer ler.
+T3(6): O valor é: 4
+ L(6): Finalizou a leitura.
+ E(6): Quer escrever.
+ E(6): Finalizou a escrita.
+T3(6): Terminou.
+T3(7): Começou.
+ L(7): Quer ler.
+T3(7): O valor é: 6
+ L(7): Finalizou a leitura.
+ E(7): Quer escrever.
+ E(7): Finalizou a escrita.
+T3(7): Terminou.
+T3(5): Começou.
+ L(5): Quer ler.
+T3(5): O valor é: 7
+ L(5): Finalizou a leitura.
+ E(5): Quer escrever.
+ E(5): Finalizou a escrita.
+T3(5): Terminou.
+T3(8): Começou.
+ L(8): Quer ler.
+T3(8): O valor é: 5
+ L(8): Finalizou a leitura.
+ E(8): Quer escrever.
+ E(8): Finalizou a escrita.
+T3(8): Terminou.
+--- TAREFAS CONCLUÍDAS ---
+T3(3): Começou.
+ L(3): Quer ler.
+T3(3): O valor é: 0
+ L(3): Finalizou a leitura.
+ E(3): Quer escrever.
+ E(3): Finalizou a escrita.
+T3(3): Terminou.
+T2(1): Começou.
+ L(1): Quer ler.
+T2(1): 3 é um valor ímpar.
+ L(1): Finalizou a leitura.
+T2(1): Terminou.
+T1(0): Começou.
+ E(0): Quer escrever.
+ E(0): Finalizou a escrita.
+T1(0): Terminou.
+T3(5): Começou.
+ L(5): Quer ler.
+T3(5): O valor é: 4
+ L(5): Finalizou a leitura.
+ E(5): Quer escrever.
+ E(5): Finalizou a escrita.
+T3(5): Terminou.
+T3(8): Começou.
+ L(8): Quer ler.
+T3(8): O valor é: 5
+ L(8): Finalizou a leitura.
+ E(8): Quer escrever.
+ E(8): Finalizou a escrita.
+T3(8): Terminou.
+T3(6): Começou.
+ L(6): Quer ler.
+T3(6): O valor é: 8
+ L(6): Finalizou a leitura.
+ E(6): Quer escrever.
+ E(6): Finalizou a escrita.
+T3(6): Terminou.
+T3(4): Começou.
+ L(4): Quer ler.
+T3(4): O valor é: 6
+ L(4): Finalizou a leitura.
+ E(4): Quer escrever.
+ E(4): Finalizou a escrita.
+T3(4): Terminou.
+T3(7): Começou.
+ L(7): Quer ler.
+T3(7): O valor é: 4
+ L(7): Finalizou a leitura.
+ E(7): Quer escrever.
+ E(7): Finalizou a escrita.
+T3(7): Terminou.
+T3(2): Começou.
+ L(2): Quer ler.
+T3(2): O valor é: 7
+ L(2): Finalizou a leitura.
+ E(2): Quer escrever.
+ E(2): Finalizou a escrita.
+T3(2): Terminou.
+--- TAREFAS CONCLUÍDAS ---
+T1(0): Começou.
+ E(0): Quer escrever.
+ E(0): Finalizou a escrita.
+T1(0): Terminou.
+T2(1): Começou.
+ L(1): Quer ler.
+T2(1): 1 é um valor ímpar.
+ L(1): Finalizou a leitura.
+T2(1): Terminou.
+T3(3): Começou.
+ L(3): Quer ler.
+T3(3): O valor é: 1
+ L(3): Finalizou a leitura.
+ E(3): Quer escrever.
+ E(3): Finalizou a escrita.
+T3(3): Terminou.
+T3(6): Começou.
+ L(6): Quer ler.
+T3(6): O valor é: 3
+ L(6): Finalizou a leitura.
+ E(6): Quer escrever.
+ E(6): Finalizou a escrita.
+T3(6): Terminou.
+T3(7): Começou.
+ L(7): Quer ler.
+T3(7): O valor é: 6
+ L(7): Finalizou a leitura.
+ E(7): Quer escrever.
+ E(7): Finalizou a escrita.
+T3(7): Terminou.
+T3(5): Começou.
+ L(5): Quer ler.
+T3(5): O valor é: 7
+ L(5): Finalizou a leitura.
+ E(5): Quer escrever.
+ E(5): Finalizou a escrita.
+T3(5): Terminou.
+T3(4): Começou.
+ L(4): Quer ler.
+T3(4): O valor é: 5
+ L(4): Finalizou a leitura.
+ E(4): Quer escrever.
+ E(4): Finalizou a escrita.
+T3(4): Terminou.
+T3(2): Começou.
+ L(2): Quer ler.
+T3(2): O valor é: 4
+ L(2): Finalizou a leitura.
+ E(2): Quer escrever.
+ E(2): Finalizou a escrita.
+T3(2): Terminou.
+T3(8): Começou.
+ L(8): Quer ler.
+T3(8): O valor é: 2
+ L(8): Finalizou a leitura.
+ E(8): Quer escrever.
+ E(8): Finalizou a escrita.
+T3(8): Terminou.
+--- TAREFAS CONCLUÍDAS ---
+T1(0): Começou.
+ E(0): Quer escrever.
+ E(0): Finalizou a escrita.
+T1(0): Terminou.
+T2(1): Começou.
+ L(1): Quer ler.
+T2(1): 1 é um valor ímpar.
+ L(1): Finalizou a leitura.
+T2(1): Terminou.
+T3(4): Começou.
+ L(4): Quer ler.
+T3(4): O valor é: 1
+ L(4): Finalizou a leitura.
+ E(4): Quer escrever.
+ E(4): Finalizou a escrita.
+T3(4): Terminou.
+T3(3): Começou.
+ L(3): Quer ler.
+T3(3): O valor é: 4
+ L(3): Finalizou a leitura.
+ E(3): Quer escrever.
+ E(3): Finalizou a escrita.
+T3(3): Terminou.
+T3(5): Começou.
+ L(5): Quer ler.
+T3(5): O valor é: 3
+ L(5): Finalizou a leitura.
+ E(5): Quer escrever.
+ E(5): Finalizou a escrita.
+T3(5): Terminou.
+T3(6): Começou.
+ L(6): Quer ler.
+T3(6): O valor é: 5
+ L(6): Finalizou a leitura.
+ E(6): Quer escrever.
+ E(6): Finalizou a escrita.
+T3(6): Terminou.
+T3(7): Começou.
+ L(7): Quer ler.
+T3(7): O valor é: 6
+ L(7): Finalizou a leitura.
+ E(7): Quer escrever.
+ E(7): Finalizou a escrita.
+T3(7): Terminou.
+T3(8): Começou.
+ L(8): Quer ler.
+T3(8): O valor é: 7
+ L(8): Finalizou a leitura.
+ E(8): Quer escrever.
+ E(8): Finalizou a escrita.
+T3(8): Terminou.
+T3(2): Começou.
+ L(2): Quer ler.
+T3(2): O valor é: 8
+ L(2): Finalizou a leitura.
+ E(2): Quer escrever.
+ E(2): Finalizou a escrita.
+T3(2): Terminou.
+--- TAREFAS CONCLUÍDAS ---
+T1(0): Começou.
+ E(0): Quer escrever.
+ E(0): Finalizou a escrita.
+T1(0): Terminou.
+T2(1): Começou.
+ L(1): Quer ler.
+T2(1): 1 é um valor ímpar.
+ L(1): Finalizou a leitura.
+T2(1): Terminou.
+T3(5): Começou.
+ L(5): Quer ler.
+T3(5): O valor é: 1
+ L(5): Finalizou a leitura.
+ E(5): Quer escrever.
+ E(5): Finalizou a escrita.
+T3(5): Terminou.
+T3(4): Começou.
+ L(4): Quer ler.
+T3(4): O valor é: 5
+ L(4): Finalizou a leitura.
+ E(4): Quer escrever.
+ E(4): Finalizou a escrita.
+T3(4): Terminou.
+T3(6): Começou.
+ L(6): Quer ler.
+T3(6): O valor é: 4
+ L(6): Finalizou a leitura.
+ E(6): Quer escrever.
+ E(6): Finalizou a escrita.
+T3(6): Terminou.
+T3(8): Começou.
+ L(8): Quer ler.
+T3(8): O valor é: 6
+ L(8): Finalizou a leitura.
+ E(8): Quer escrever.
+ E(8): Finalizou a escrita.
+T3(8): Terminou.
+T3(7): Começou.
+ L(7): Quer ler.
+T3(7): O valor é: 8
+ L(7): Finalizou a leitura.
+ E(7): Quer escrever.
+ E(7): Finalizou a escrita.
+T3(7): Terminou.
+T3(2): Começou.
+ L(2): Quer ler.
+T3(2): O valor é: 7
+ L(2): Finalizou a leitura.
+ E(2): Quer escrever.
+ E(2): Finalizou a escrita.
+T3(2): Terminou.
+T3(3): Começou.
+ L(3): Quer ler.
+T3(3): O valor é: 2
+ L(3): Finalizou a leitura.
+ E(3): Quer escrever.
+ E(3): Finalizou a escrita.
+T3(3): Terminou.
+--- TAREFAS CONCLUÍDAS ---
