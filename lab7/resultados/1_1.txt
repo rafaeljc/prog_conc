@@ -1,0 +1,1014 @@
+[          ]
+P(0): Produziu AYTSMOYREB
+P(0): Inseriu AYTSMOYREB no buffer
+[AYTSMOYREB]
+C(1): Retirou A do buffer
+[ YTSMOYREB]
+C(1): Retirou Y do buffer
+[  TSMOYREB]
+C(1): Retirou T do buffer
+[   SMOYREB]
+C(1): Retirou S do buffer
+[    MOYREB]
+C(1): Retirou M do buffer
+[     OYREB]
+C(1): Retirou O do buffer
+[      YREB]
+C(1): Retirou Y do buffer
+[       REB]
+C(1): Retirou R do buffer
+[        EB]
+C(1): Retirou E do buffer
+[         B]
+C(1): Retirou B do buffer
+[          ]
+P(0): Produziu UTFIGCAIPM
+P(0): Inseriu UTFIGCAIPM no buffer
+[UTFIGCAIPM]
+C(1): Retirou U do buffer
+[ TFIGCAIPM]
+P(0): Produziu SKAFCTTHHR
+C(1): Retirou T do buffer
+[  FIGCAIPM]
+C(1): Retirou F do buffer
+[   IGCAIPM]
+C(1): Retirou I do buffer
+[    GCAIPM]
+C(1): Retirou G do buffer
+[     CAIPM]
+C(1): Retirou C do buffer
+[      AIPM]
+C(1): Retirou A do buffer
+[       IPM]
+C(1): Retirou I do buffer
+[        PM]
+C(1): Retirou P do buffer
+[         M]
+C(1): Retirou M do buffer
+[          ]
+P(0): Inseriu SKAFCTTHHR no buffer
+[SKAFCTTHHR]
+C(1): Retirou S do buffer
+P(0): Produziu TJPODDCDWG
+[ KAFCTTHHR]
+C(1): Retirou K do buffer
+[  AFCTTHHR]
+C(1): Retirou A do buffer
+[   FCTTHHR]
+C(1): Retirou F do buffer
+[    CTTHHR]
+C(1): Retirou C do buffer
+[     TTHHR]
+C(1): Retirou T do buffer
+[      THHR]
+C(1): Retirou T do buffer
+[       HHR]
+C(1): Retirou H do buffer
+[        HR]
+C(1): Retirou H do buffer
+[         R]
+C(1): Retirou R do buffer
+[          ]
+P(0): Inseriu TJPODDCDWG no buffer
+[TJPODDCDWG]
+C(1): Retirou T do buffer
+[ JPODDCDWG]
+C(1): Retirou J do buffer
+[  PODDCDWG]
+C(1): Retirou P do buffer
+[   ODDCDWG]
+C(1): Retirou O do buffer
+[    DDCDWG]
+C(1): Retirou D do buffer
+[     DCDWG]
+C(1): Retirou D do buffer
+P(0): Produziu FRBKBHODRF
+[      CDWG]
+C(1): Retirou C do buffer
+[       DWG]
+C(1): Retirou D do buffer
+[        WG]
+C(1): Retirou W do buffer
+[         G]
+C(1): Retirou G do buffer
+[          ]
+P(0): Inseriu FRBKBHODRF no buffer
+[FRBKBHODRF]
+P(0): Produziu PLPRQSKJBT
+C(1): Retirou F do buffer
+[ RBKBHODRF]
+C(1): Retirou R do buffer
+[  BKBHODRF]
+C(1): Retirou B do buffer
+[   KBHODRF]
+C(1): Retirou K do buffer
+[    BHODRF]
+C(1): Retirou B do buffer
+[     HODRF]
+C(1): Retirou H do buffer
+[      ODRF]
+C(1): Retirou O do buffer
+[       DRF]
+C(1): Retirou D do buffer
+[        RF]
+C(1): Retirou R do buffer
+[         F]
+C(1): Retirou F do buffer
+[          ]
+P(0): Inseriu PLPRQSKJBT no buffer
+[PLPRQSKJBT]
+C(1): Retirou P do buffer
+[ LPRQSKJBT]
+C(1): Retirou L do buffer
+P(0): Produziu CWDTKIXOMT
+[  PRQSKJBT]
+C(1): Retirou P do buffer
+[   RQSKJBT]
+C(1): Retirou R do buffer
+[    QSKJBT]
+C(1): Retirou Q do buffer
+[     SKJBT]
+C(1): Retirou S do buffer
+[      KJBT]
+C(1): Retirou K do buffer
+[       JBT]
+C(1): Retirou J do buffer
+[        BT]
+C(1): Retirou B do buffer
+[         T]
+C(1): Retirou T do buffer
+[          ]
+P(0): Inseriu CWDTKIXOMT no buffer
+[CWDTKIXOMT]
+C(1): Retirou C do buffer
+[ WDTKIXOMT]
+P(0): Produziu WRMXBPGRSX
+C(1): Retirou W do buffer
+[  DTKIXOMT]
+C(1): Retirou D do buffer
+[   TKIXOMT]
+C(1): Retirou T do buffer
+[    KIXOMT]
+C(1): Retirou K do buffer
+[     IXOMT]
+C(1): Retirou I do buffer
+[      XOMT]
+C(1): Retirou X do buffer
+[       OMT]
+C(1): Retirou O do buffer
+[        MT]
+C(1): Retirou M do buffer
+[         T]
+C(1): Retirou T do buffer
+[          ]
+P(0): Inseriu WRMXBPGRSX no buffer
+[WRMXBPGRSX]
+C(1): Retirou W do buffer
+[ RMXBPGRSX]
+P(0): Produziu WJKOBAINLL
+C(1): Retirou R do buffer
+[  MXBPGRSX]
+C(1): Retirou M do buffer
+[   XBPGRSX]
+C(1): Retirou X do buffer
+[    BPGRSX]
+C(1): Retirou B do buffer
+[     PGRSX]
+C(1): Retirou P do buffer
+[      GRSX]
+C(1): Retirou G do buffer
+[       RSX]
+C(1): Retirou R do buffer
+[        SX]
+C(1): Retirou S do buffer
+[         X]
+C(1): Retirou X do buffer
+[          ]
+P(0): Inseriu WJKOBAINLL no buffer
+[WJKOBAINLL]
+C(1): Retirou W do buffer
+[ JKOBAINLL]
+P(0): Produziu HQHMJTUIHG
+C(1): Retirou J do buffer
+[  KOBAINLL]
+C(1): Retirou K do buffer
+[   OBAINLL]
+C(1): Retirou O do buffer
+[    BAINLL]
+C(1): Retirou B do buffer
+[     AINLL]
+C(1): Retirou A do buffer
+[      INLL]
+C(1): Retirou I do buffer
+[       NLL]
+C(1): Retirou N do buffer
+[        LL]
+C(1): Retirou L do buffer
+[         L]
+C(1): Retirou L do buffer
+[          ]
+P(0): Inseriu HQHMJTUIHG no buffer
+[HQHMJTUIHG]
+P(0): Produziu CDZQCAGITY
+C(1): Retirou H do buffer
+[ QHMJTUIHG]
+C(1): Retirou Q do buffer
+[  HMJTUIHG]
+C(1): Retirou H do buffer
+[   MJTUIHG]
+C(1): Retirou M do buffer
+[    JTUIHG]
+C(1): Retirou J do buffer
+[     TUIHG]
+C(1): Retirou T do buffer
+[      UIHG]
+C(1): Retirou U do buffer
+[       IHG]
+C(1): Retirou I do buffer
+[        HG]
+C(1): Retirou H do buffer
+[         G]
+C(1): Retirou G do buffer
+[          ]
+P(0): Inseriu CDZQCAGITY no buffer
+[CDZQCAGITY]
+P(0): Produziu HQIRGLTOYG
+C(1): Retirou C do buffer
+[ DZQCAGITY]
+C(1): Retirou D do buffer
+[  ZQCAGITY]
+C(1): Retirou Z do buffer
+[   QCAGITY]
+C(1): Retirou Q do buffer
+[    CAGITY]
+C(1): Retirou C do buffer
+[     AGITY]
+C(1): Retirou A do buffer
+[      GITY]
+C(1): Retirou G do buffer
+[       ITY]
+C(1): Retirou I do buffer
+[        TY]
+C(1): Retirou T do buffer
+[         Y]
+C(1): Retirou Y do buffer
+[          ]
+P(0): Inseriu HQIRGLTOYG no buffer
+[HQIRGLTOYG]
+C(1): Retirou H do buffer
+[ QIRGLTOYG]
+P(0): Produziu BHWITIBQQK
+C(1): Retirou Q do buffer
+[  IRGLTOYG]
+C(1): Retirou I do buffer
+[   RGLTOYG]
+C(1): Retirou R do buffer
+[    GLTOYG]
+C(1): Retirou G do buffer
+[     LTOYG]
+C(1): Retirou L do buffer
+[      TOYG]
+C(1): Retirou T do buffer
+[       OYG]
+C(1): Retirou O do buffer
+[        YG]
+C(1): Retirou Y do buffer
+[         G]
+C(1): Retirou G do buffer
+[          ]
+P(0): Inseriu BHWITIBQQK no buffer
+[BHWITIBQQK]
+C(1): Retirou B do buffer
+[ HWITIBQQK]
+C(1): Retirou H do buffer
+P(0): Produziu YSNYLPARZW
+[  WITIBQQK]
+C(1): Retirou W do buffer
+[   ITIBQQK]
+C(1): Retirou I do buffer
+[    TIBQQK]
+C(1): Retirou T do buffer
+[     IBQQK]
+C(1): Retirou I do buffer
+[      BQQK]
+C(1): Retirou B do buffer
+[       QQK]
+C(1): Retirou Q do buffer
+[        QK]
+C(1): Retirou Q do buffer
+[         K]
+C(1): Retirou K do buffer
+[          ]
+P(0): Inseriu YSNYLPARZW no buffer
+[YSNYLPARZW]
+C(1): Retirou Y do buffer
+[ SNYLPARZW]
+C(1): Retirou S do buffer
+P(0): Produziu PIMZZUKUKJ
+[  NYLPARZW]
+C(1): Retirou N do buffer
+[   YLPARZW]
+C(1): Retirou Y do buffer
+[    LPARZW]
+C(1): Retirou L do buffer
+[     PARZW]
+C(1): Retirou P do buffer
+[      ARZW]
+C(1): Retirou A do buffer
+[       RZW]
+C(1): Retirou R do buffer
+[        ZW]
+C(1): Retirou Z do buffer
+[         W]
+C(1): Retirou W do buffer
+[          ]
+P(0): Inseriu PIMZZUKUKJ no buffer
+[PIMZZUKUKJ]
+C(1): Retirou P do buffer
+[ IMZZUKUKJ]
+C(1): Retirou I do buffer
+P(0): Produziu CLSBVOJYEZ
+[  MZZUKUKJ]
+C(1): Retirou M do buffer
+[   ZZUKUKJ]
+C(1): Retirou Z do buffer
+[    ZUKUKJ]
+C(1): Retirou Z do buffer
+[     UKUKJ]
+C(1): Retirou U do buffer
+[      KUKJ]
+C(1): Retirou K do buffer
+[       UKJ]
+C(1): Retirou U do buffer
+[        KJ]
+C(1): Retirou K do buffer
+[         J]
+C(1): Retirou J do buffer
+[          ]
+P(0): Inseriu CLSBVOJYEZ no buffer
+[CLSBVOJYEZ]
+C(1): Retirou C do buffer
+[ LSBVOJYEZ]
+P(0): Produziu IEUVEFMFWN
+C(1): Retirou L do buffer
+[  SBVOJYEZ]
+C(1): Retirou S do buffer
+[   BVOJYEZ]
+C(1): Retirou B do buffer
+[    VOJYEZ]
+C(1): Retirou V do buffer
+[     OJYEZ]
+C(1): Retirou O do buffer
+[      JYEZ]
+C(1): Retirou J do buffer
+[       YEZ]
+C(1): Retirou Y do buffer
+[        EZ]
+C(1): Retirou E do buffer
+[         Z]
+C(1): Retirou Z do buffer
+[          ]
+P(0): Inseriu IEUVEFMFWN no buffer
+[IEUVEFMFWN]
+C(1): Retirou I do buffer
+[ EUVEFMFWN]
+C(1): Retirou E do buffer
+P(0): Produziu BNVPNWLZSV
+[  UVEFMFWN]
+C(1): Retirou U do buffer
+[   VEFMFWN]
+C(1): Retirou V do buffer
+[    EFMFWN]
+C(1): Retirou E do buffer
+[     FMFWN]
+C(1): Retirou F do buffer
+[      MFWN]
+C(1): Retirou M do buffer
+[       FWN]
+C(1): Retirou F do buffer
+[        WN]
+C(1): Retirou W do buffer
+[         N]
+C(1): Retirou N do buffer
+[          ]
+P(0): Inseriu BNVPNWLZSV no buffer
+[BNVPNWLZSV]
+P(0): Produziu IUGBVDPEBV
+C(1): Retirou B do buffer
+[ NVPNWLZSV]
+C(1): Retirou N do buffer
+[  VPNWLZSV]
+C(1): Retirou V do buffer
+[   PNWLZSV]
+C(1): Retirou P do buffer
+[    NWLZSV]
+C(1): Retirou N do buffer
+[     WLZSV]
+C(1): Retirou W do buffer
+[      LZSV]
+C(1): Retirou L do buffer
+[       ZSV]
+C(1): Retirou Z do buffer
+[        SV]
+C(1): Retirou S do buffer
+[         V]
+C(1): Retirou V do buffer
+[          ]
+P(0): Inseriu IUGBVDPEBV no buffer
+[IUGBVDPEBV]
+C(1): Retirou I do buffer
+[ UGBVDPEBV]
+C(1): Retirou U do buffer
+[  GBVDPEBV]
+C(1): Retirou G do buffer
+P(0): Produziu GJBCGGHSLF
+[   BVDPEBV]
+C(1): Retirou B do buffer
+[    VDPEBV]
+C(1): Retirou V do buffer
+[     DPEBV]
+C(1): Retirou D do buffer
+[      PEBV]
+C(1): Retirou P do buffer
+[       EBV]
+C(1): Retirou E do buffer
+[        BV]
+C(1): Retirou B do buffer
+[         V]
+C(1): Retirou V do buffer
+[          ]
+P(0): Inseriu GJBCGGHSLF no buffer
+[GJBCGGHSLF]
+C(1): Retirou G do buffer
+[ JBCGGHSLF]
+C(1): Retirou J do buffer
+P(0): Produziu HOUCFJYQJQ
+[  BCGGHSLF]
+C(1): Retirou B do buffer
+[   CGGHSLF]
+C(1): Retirou C do buffer
+[    GGHSLF]
+C(1): Retirou G do buffer
+[     GHSLF]
+C(1): Retirou G do buffer
+[      HSLF]
+C(1): Retirou H do buffer
+[       SLF]
+C(1): Retirou S do buffer
+[        LF]
+C(1): Retirou L do buffer
+[         F]
+C(1): Retirou F do buffer
+[          ]
+P(0): Inseriu HOUCFJYQJQ no buffer
+[HOUCFJYQJQ]
+C(1): Retirou H do buffer
+P(0): Produziu LRMTUIWLOX
+[ OUCFJYQJQ]
+C(1): Retirou O do buffer
+[  UCFJYQJQ]
+C(1): Retirou U do buffer
+[   CFJYQJQ]
+C(1): Retirou C do buffer
+[    FJYQJQ]
+C(1): Retirou F do buffer
+[     JYQJQ]
+C(1): Retirou J do buffer
+[      YQJQ]
+C(1): Retirou Y do buffer
+[       QJQ]
+C(1): Retirou Q do buffer
+[        JQ]
+C(1): Retirou J do buffer
+[         Q]
+C(1): Retirou Q do buffer
+[          ]
+P(0): Inseriu LRMTUIWLOX no buffer
+[LRMTUIWLOX]
+C(1): Retirou L do buffer
+[ RMTUIWLOX]
+C(1): Retirou R do buffer
+P(0): Produziu IWGKYMQHGD
+[  MTUIWLOX]
+C(1): Retirou M do buffer
+[   TUIWLOX]
+C(1): Retirou T do buffer
+[    UIWLOX]
+C(1): Retirou U do buffer
+[     IWLOX]
+C(1): Retirou I do buffer
+[      WLOX]
+C(1): Retirou W do buffer
+[       LOX]
+C(1): Retirou L do buffer
+[        OX]
+C(1): Retirou O do buffer
+[         X]
+C(1): Retirou X do buffer
+[          ]
+P(0): Inseriu IWGKYMQHGD no buffer
+[IWGKYMQHGD]
+C(1): Retirou I do buffer
+[ WGKYMQHGD]
+C(1): Retirou W do buffer
+[  GKYMQHGD]
+P(0): Produziu ONRJRWSPMB
+C(1): Retirou G do buffer
+[   KYMQHGD]
+C(1): Retirou K do buffer
+[    YMQHGD]
+C(1): Retirou Y do buffer
+[     MQHGD]
+C(1): Retirou M do buffer
+[      QHGD]
+C(1): Retirou Q do buffer
+[       HGD]
+C(1): Retirou H do buffer
+[        GD]
+C(1): Retirou G do buffer
+[         D]
+C(1): Retirou D do buffer
+[          ]
+P(0): Inseriu ONRJRWSPMB no buffer
+[ONRJRWSPMB]
+C(1): Retirou O do buffer
+[ NRJRWSPMB]
+P(0): Produziu HZVTSRDQFS
+C(1): Retirou N do buffer
+[  RJRWSPMB]
+C(1): Retirou R do buffer
+[   JRWSPMB]
+C(1): Retirou J do buffer
+[    RWSPMB]
+C(1): Retirou R do buffer
+[     WSPMB]
+C(1): Retirou W do buffer
+[      SPMB]
+C(1): Retirou S do buffer
+[       PMB]
+C(1): Retirou P do buffer
+[        MB]
+C(1): Retirou M do buffer
+[         B]
+C(1): Retirou B do buffer
+[          ]
+P(0): Inseriu HZVTSRDQFS no buffer
+[HZVTSRDQFS]
+C(1): Retirou H do buffer
+[ ZVTSRDQFS]
+C(1): Retirou Z do buffer
+P(0): Produziu PNOVZPJPWR
+[  VTSRDQFS]
+C(1): Retirou V do buffer
+[   TSRDQFS]
+C(1): Retirou T do buffer
+[    SRDQFS]
+C(1): Retirou S do buffer
+[     RDQFS]
+C(1): Retirou R do buffer
+[      DQFS]
+C(1): Retirou D do buffer
+[       QFS]
+C(1): Retirou Q do buffer
+[        FS]
+C(1): Retirou F do buffer
+[         S]
+C(1): Retirou S do buffer
+[          ]
+P(0): Inseriu PNOVZPJPWR no buffer
+[PNOVZPJPWR]
+C(1): Retirou P do buffer
+[ NOVZPJPWR]
+C(1): Retirou N do buffer
+[  OVZPJPWR]
+P(0): Produziu SLELUVJOMX
+C(1): Retirou O do buffer
+[   VZPJPWR]
+C(1): Retirou V do buffer
+[    ZPJPWR]
+C(1): Retirou Z do buffer
+[     PJPWR]
+C(1): Retirou P do buffer
+[      JPWR]
+C(1): Retirou J do buffer
+[       PWR]
+C(1): Retirou P do buffer
+[        WR]
+C(1): Retirou W do buffer
+[         R]
+C(1): Retirou R do buffer
+[          ]
+P(0): Inseriu SLELUVJOMX no buffer
+[SLELUVJOMX]
+C(1): Retirou S do buffer
+[ LELUVJOMX]
+C(1): Retirou L do buffer
+[  ELUVJOMX]
+C(1): Retirou E do buffer
+P(0): Produziu QVWNOQESIJ
+[   LUVJOMX]
+C(1): Retirou L do buffer
+[    UVJOMX]
+C(1): Retirou U do buffer
+[     VJOMX]
+C(1): Retirou V do buffer
+[      JOMX]
+C(1): Retirou J do buffer
+[       OMX]
+C(1): Retirou O do buffer
+[        MX]
+C(1): Retirou M do buffer
+[         X]
+C(1): Retirou X do buffer
+[          ]
+P(0): Inseriu QVWNOQESIJ no buffer
+[QVWNOQESIJ]
+C(1): Retirou Q do buffer
+[ VWNOQESIJ]
+C(1): Retirou V do buffer
+[  WNOQESIJ]
+P(0): Produziu MXZCUYRDQO
+C(1): Retirou W do buffer
+[   NOQESIJ]
+C(1): Retirou N do buffer
+[    OQESIJ]
+C(1): Retirou O do buffer
+[     QESIJ]
+C(1): Retirou Q do buffer
+[      ESIJ]
+C(1): Retirou E do buffer
+[       SIJ]
+C(1): Retirou S do buffer
+[        IJ]
+C(1): Retirou I do buffer
+[         J]
+C(1): Retirou J do buffer
+[          ]
+P(0): Inseriu MXZCUYRDQO no buffer
+[MXZCUYRDQO]
+C(1): Retirou M do buffer
+[ XZCUYRDQO]
+C(1): Retirou X do buffer
+P(0): Produziu WIZCWVZFJL
+[  ZCUYRDQO]
+C(1): Retirou Z do buffer
+[   CUYRDQO]
+C(1): Retirou C do buffer
+[    UYRDQO]
+C(1): Retirou U do buffer
+[     YRDQO]
+C(1): Retirou Y do buffer
+[      RDQO]
+C(1): Retirou R do buffer
+[       DQO]
+C(1): Retirou D do buffer
+[        QO]
+C(1): Retirou Q do buffer
+[         O]
+C(1): Retirou O do buffer
+[          ]
+P(0): Inseriu WIZCWVZFJL no buffer
+[WIZCWVZFJL]
+C(1): Retirou W do buffer
+[ IZCWVZFJL]
+C(1): Retirou I do buffer
+P(0): Produziu FBGDOXUVRE
+[  ZCWVZFJL]
+C(1): Retirou Z do buffer
+[   CWVZFJL]
+C(1): Retirou C do buffer
+[    WVZFJL]
+C(1): Retirou W do buffer
+[     VZFJL]
+C(1): Retirou V do buffer
+[      ZFJL]
+C(1): Retirou Z do buffer
+[       FJL]
+C(1): Retirou F do buffer
+[        JL]
+C(1): Retirou J do buffer
+[         L]
+C(1): Retirou L do buffer
+[          ]
+P(0): Inseriu FBGDOXUVRE no buffer
+[FBGDOXUVRE]
+C(1): Retirou F do buffer
+[ BGDOXUVRE]
+C(1): Retirou B do buffer
+P(0): Produziu GDCFFWEZCW
+[  GDOXUVRE]
+C(1): Retirou G do buffer
+[   DOXUVRE]
+C(1): Retirou D do buffer
+[    OXUVRE]
+C(1): Retirou O do buffer
+[     XUVRE]
+C(1): Retirou X do buffer
+[      UVRE]
+C(1): Retirou U do buffer
+[       VRE]
+C(1): Retirou V do buffer
+[        RE]
+C(1): Retirou R do buffer
+[         E]
+C(1): Retirou E do buffer
+[          ]
+P(0): Inseriu GDCFFWEZCW no buffer
+[GDCFFWEZCW]
+C(1): Retirou G do buffer
+[ DCFFWEZCW]
+C(1): Retirou D do buffer
+[  CFFWEZCW]
+P(0): Produziu NYEOBCJAKU
+C(1): Retirou C do buffer
+[   FFWEZCW]
+C(1): Retirou F do buffer
+[    FWEZCW]
+C(1): Retirou F do buffer
+[     WEZCW]
+C(1): Retirou W do buffer
+[      EZCW]
+C(1): Retirou E do buffer
+[       ZCW]
+C(1): Retirou Z do buffer
+[        CW]
+C(1): Retirou C do buffer
+[         W]
+C(1): Retirou W do buffer
+[          ]
+P(0): Inseriu NYEOBCJAKU no buffer
+[NYEOBCJAKU]
+C(1): Retirou N do buffer
+[ YEOBCJAKU]
+P(0): Produziu OPWWSMTOHM
+C(1): Retirou Y do buffer
+[  EOBCJAKU]
+C(1): Retirou E do buffer
+[   OBCJAKU]
+C(1): Retirou O do buffer
+[    BCJAKU]
+C(1): Retirou B do buffer
+[     CJAKU]
+C(1): Retirou C do buffer
+[      JAKU]
+C(1): Retirou J do buffer
+[       AKU]
+C(1): Retirou A do buffer
+[        KU]
+C(1): Retirou K do buffer
+[         U]
+C(1): Retirou U do buffer
+[          ]
+P(0): Inseriu OPWWSMTOHM no buffer
+[OPWWSMTOHM]
+C(1): Retirou O do buffer
+[ PWWSMTOHM]
+C(1): Retirou P do buffer
+[  WWSMTOHM]
+P(0): Produziu TOPVVXTBYV
+C(1): Retirou W do buffer
+[   WSMTOHM]
+C(1): Retirou W do buffer
+[    SMTOHM]
+C(1): Retirou S do buffer
+[     MTOHM]
+C(1): Retirou M do buffer
+[      TOHM]
+C(1): Retirou T do buffer
+[       OHM]
+C(1): Retirou O do buffer
+[        HM]
+C(1): Retirou H do buffer
+[         M]
+C(1): Retirou M do buffer
+[          ]
+P(0): Inseriu TOPVVXTBYV no buffer
+[TOPVVXTBYV]
+C(1): Retirou T do buffer
+[ OPVVXTBYV]
+C(1): Retirou O do buffer
+[  PVVXTBYV]
+C(1): Retirou P do buffer
+P(0): Produziu XLWEBXGMZQ
+[   VVXTBYV]
+C(1): Retirou V do buffer
+[    VXTBYV]
+C(1): Retirou V do buffer
+[     XTBYV]
+C(1): Retirou X do buffer
+[      TBYV]
+C(1): Retirou T do buffer
+[       BYV]
+C(1): Retirou B do buffer
+[        YV]
+C(1): Retirou Y do buffer
+[         V]
+C(1): Retirou V do buffer
+[          ]
+P(0): Inseriu XLWEBXGMZQ no buffer
+[XLWEBXGMZQ]
+C(1): Retirou X do buffer
+[ LWEBXGMZQ]
+C(1): Retirou L do buffer
+[  WEBXGMZQ]
+C(1): Retirou W do buffer
+[   EBXGMZQ]
+C(1): Retirou E do buffer
+[    BXGMZQ]
+C(1): Retirou B do buffer
+[     XGMZQ]
+C(1): Retirou X do buffer
+[      GMZQ]
+C(1): Retirou G do buffer
+[       MZQ]
+C(1): Retirou M do buffer
+[        ZQ]
+C(1): Retirou Z do buffer
+[         Q]
+P(0): Produziu GNHEMARHQA
+C(1): Retirou Q do buffer
+[          ]
+P(0): Inseriu GNHEMARHQA no buffer
+[GNHEMARHQA]
+P(0): Produziu UJQLGMKANI
+C(1): Retirou G do buffer
+[ NHEMARHQA]
+C(1): Retirou N do buffer
+[  HEMARHQA]
+C(1): Retirou H do buffer
+[   EMARHQA]
+C(1): Retirou E do buffer
+[    MARHQA]
+C(1): Retirou M do buffer
+[     ARHQA]
+C(1): Retirou A do buffer
+[      RHQA]
+C(1): Retirou R do buffer
+[       HQA]
+C(1): Retirou H do buffer
+[        QA]
+C(1): Retirou Q do buffer
+[         A]
+C(1): Retirou A do buffer
+[          ]
+P(0): Inseriu UJQLGMKANI no buffer
+[UJQLGMKANI]
+C(1): Retirou U do buffer
+[ JQLGMKANI]
+C(1): Retirou J do buffer
+[  QLGMKANI]
+P(0): Produziu XNVTRWSZIS
+C(1): Retirou Q do buffer
+[   LGMKANI]
+C(1): Retirou L do buffer
+[    GMKANI]
+C(1): Retirou G do buffer
+[     MKANI]
+C(1): Retirou M do buffer
+[      KANI]
+C(1): Retirou K do buffer
+[       ANI]
+C(1): Retirou A do buffer
+[        NI]
+C(1): Retirou N do buffer
+[         I]
+C(1): Retirou I do buffer
+[          ]
+P(0): Inseriu XNVTRWSZIS no buffer
+[XNVTRWSZIS]
+C(1): Retirou X do buffer
+[ NVTRWSZIS]
+C(1): Retirou N do buffer
+P(0): Produziu QRHZVTBMDS
+[  VTRWSZIS]
+C(1): Retirou V do buffer
+[   TRWSZIS]
+C(1): Retirou T do buffer
+[    RWSZIS]
+C(1): Retirou R do buffer
+[     WSZIS]
+C(1): Retirou W do buffer
+[      SZIS]
+C(1): Retirou S do buffer
+[       ZIS]
+C(1): Retirou Z do buffer
+[        IS]
+C(1): Retirou I do buffer
+[         S]
+C(1): Retirou S do buffer
+[          ]
+P(0): Inseriu QRHZVTBMDS no buffer
+[QRHZVTBMDS]
+C(1): Retirou Q do buffer
+[ RHZVTBMDS]
+C(1): Retirou R do buffer
+[  HZVTBMDS]
+P(0): Produziu PXBFIKRTMH
+C(1): Retirou H do buffer
+[   ZVTBMDS]
+C(1): Retirou Z do buffer
+[    VTBMDS]
+C(1): Retirou V do buffer
+[     TBMDS]
+C(1): Retirou T do buffer
+[      BMDS]
+C(1): Retirou B do buffer
+[       MDS]
+C(1): Retirou M do buffer
+[        DS]
+C(1): Retirou D do buffer
+[         S]
+C(1): Retirou S do buffer
+[          ]
+P(0): Inseriu PXBFIKRTMH no buffer
+[PXBFIKRTMH]
+C(1): Retirou P do buffer
+[ XBFIKRTMH]
+P(0): Produziu BLUXFNVZME
+C(1): Retirou X do buffer
+[  BFIKRTMH]
+C(1): Retirou B do buffer
+[   FIKRTMH]
+C(1): Retirou F do buffer
+[    IKRTMH]
+C(1): Retirou I do buffer
+[     KRTMH]
+C(1): Retirou K do buffer
+[      RTMH]
+C(1): Retirou R do buffer
+[       TMH]
+C(1): Retirou T do buffer
+[        MH]
+C(1): Retirou M do buffer
+[         H]
+C(1): Retirou H do buffer
+[          ]
+P(0): Inseriu BLUXFNVZME no buffer
+[BLUXFNVZME]
+C(1): Retirou B do buffer
+[ LUXFNVZME]
+C(1): Retirou L do buffer
+P(0): Produziu TEVBESWFHZ
+[  UXFNVZME]
+C(1): Retirou U do buffer
+[   XFNVZME]
+C(1): Retirou X do buffer
+[    FNVZME]
+C(1): Retirou F do buffer
+[     NVZME]
+C(1): Retirou N do buffer
+[      VZME]
+C(1): Retirou V do buffer
+[       ZME]
+C(1): Retirou Z do buffer
+[        ME]
+C(1): Retirou M do buffer
+[         E]
+C(1): Retirou E do buffer
+[          ]
+P(0): Inseriu TEVBESWFHZ no buffer
+[TEVBESWFHZ]
+C(1): Retirou T do buffer
+[ EVBESWFHZ]
+C(1): Retirou E do buffer
+P(0): Produziu XWWBBHLVCZ
+[  VBESWFHZ]
+C(1): Retirou V do buffer
+[   BESWFHZ]
+C(1): Retirou B do buffer
+[    ESWFHZ]
+C(1): Retirou E do buffer
+[     SWFHZ]
+C(1): Retirou S do buffer
+[      WFHZ]
+C(1): Retirou W do buffer
+[       FHZ]
+C(1): Retirou F do buffer
+[        HZ]
+C(1): Retirou H do buffer
+[         Z]
+C(1): Retirou Z do buffer
+[          ]
+P(0): Inseriu XWWBBHLVCZ no buffer
+[XWWBBHLVCZ]
+C(1): Retirou X do buffer
+[ WWBBHLVCZ]
+C(1): Retirou W do buffer
+P(0): Produziu EDKACRNARZ
+[  WBBHLVCZ]
+C(1): Retirou W do buffer
+[   BBHLVCZ]
+C(1): Retirou B do buffer
+[    BHLVCZ]
+C(1): Retirou B do buffer
+[     HLVCZ]
+C(1): Retirou H do buffer
+[      LVCZ]
+C(1): Retirou L do buffer
+[       VCZ]
+C(1): Retirou V do buffer
+[        CZ]
+C(1): Retirou C do buffer
+[         Z]
+C(1): Retirou Z do buffer
+[          ]
