@@ -13,8 +13,8 @@
       3.1 3.3
 
   Estrutura do arquivo binário:
-    [0]   (unsigned int) número de linhas
-    [1]   (unsigned int) número de colunas
+    [0]   (int) número de linhas
+    [1]   (int) número de colunas
     [2:]  (double) sequência de elementos
 */
 #include "trata_argumentos_entrada.h"

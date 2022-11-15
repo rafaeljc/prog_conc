@@ -3,8 +3,8 @@
 
 #include "erros.h"
 
-extern unsigned int num_linhas;
-extern unsigned int num_colunas;
+extern int num_linhas;
+extern int num_colunas;
 extern double* array;
 
 void imprime_msg_erro_escreve_arquivo(char* nome_arquivo) {
@@ -26,9 +26,9 @@ void escreve_arquivo(char* nome_arquivo) {
   }
 
   // escreve número de linhas e colunas
-  if (!fwrite(&num_linhas, sizeof(unsigned int), 1, arquivo))
+  if (!fwrite(&num_linhas, sizeof(int), 1, arquivo))
     imprime_msg_erro_escreve_arquivo(nome_arquivo);
-  if (!fwrite(&num_colunas, sizeof(unsigned int), 1, arquivo))
+  if (!fwrite(&num_colunas, sizeof(int), 1, arquivo))
     imprime_msg_erro_escreve_arquivo(nome_arquivo);
 
   // escreve elementos do array

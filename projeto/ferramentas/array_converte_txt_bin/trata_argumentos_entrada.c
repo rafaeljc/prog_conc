@@ -27,7 +27,7 @@ char* nome_sem_extensao(char* nome_arquivo) {
   int tam_nome = strlen(nome_arquivo) - 4; // ".txt"
   char* nome = (char*) malloc(tam_nome + 1); // '\0'
   if (!nome) {
-    fprintf(stderr, "Erro: nome_sem_extensao() -> malloc()\n");
+    fprintf(stderr, "ERRO: nome_sem_extensao() -> malloc()\n");
     exit(ERRO_ALOC_MEMORIA);
   }
   strncpy(nome, nome_arquivo, tam_nome);

@@ -3,8 +3,8 @@
 
 #include "erros.h"
 
-unsigned int num_linhas = 0;
-unsigned int num_colunas = 0;
+int num_linhas = 0;
+int num_colunas = 0;
 double* array = NULL;
 
 void imprime_msg_erro_le_arquivo(char* nome_arquivo) {
@@ -26,21 +26,21 @@ void le_arquivo(char* nome_arquivo) {
   }
 
   // lê número de linhas e colunas
-  if (!fscanf(arquivo, "%u", &num_linhas))
+  if (!fscanf(arquivo, "%d", &num_linhas))
     imprime_msg_erro_le_arquivo(nome_arquivo);
-  if (!fscanf(arquivo, "%u", &num_colunas))
+  if (!fscanf(arquivo, "%d", &num_colunas))
     imprime_msg_erro_le_arquivo(nome_arquivo);
 
   // aloca memoria pra armazenar o array
   array = (double*) malloc(sizeof(double)*num_linhas*num_colunas);
   if (!array) {
-    fprintf(stderr, "Erro: le_arquivo() -> malloc()\n");
+    fprintf(stderr, "ERRO: le_arquivo() -> malloc()\n");
     exit(ERRO_ALOC_MEMORIA);
   }
 
   // lê elementos do array
-  for (unsigned int i = 0; i < num_linhas; i++) {
-    for (unsigned int j = 0; j < num_colunas; j++) {
+  for (int i = 0; i < num_linhas; i++) {
+    for (int j = 0; j < num_colunas; j++) {
       if (!fscanf(arquivo, "%lf", &array[i*num_colunas + j]))
         imprime_msg_erro_le_arquivo(nome_arquivo);
     }
