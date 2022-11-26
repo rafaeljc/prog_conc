@@ -21,6 +21,8 @@ extern array_t a;
 extern array_t b;
 extern array_t x0;
 extern array_t x1;
+extern int max_iter;
+extern double e;
 
 void libera_memoria() {
   free(a.elementos);
@@ -30,15 +32,16 @@ void libera_memoria() {
 }
 
 int main(int argc, char* argv[]) {
+  trata_argumentos_entrada(argc, argv);
+  
   double tempo_total = 0;
   double tempo_algoritmo = 0;
   double aux;
 
-  puts("-- GAUSS-JACOBI (sequencial)");
+  printf("-- GAUSS-JACOBI (sequencial, e: %e, max_iter: %d)\n", e, max_iter);
   puts("Tentando resolver o sistema Ax = b...");
 
-  GET_TIME(tempo_total);
-  trata_argumentos_entrada(argc, argv);
+  GET_TIME(tempo_total);  
   le_arquivos();
 
   // algoritmo
