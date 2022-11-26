@@ -97,8 +97,21 @@ void barreira() {
   return;
 }
 
+// para um melhor balanceamento de carga das threads
+// dividir em fatias contínuas de dados
+void define_limites_iteracao(int id, int* inicio, int* fim) {
+  int tam_fatia = (a.num_linhas / num_threads) + 1;
+  *inicio = tam_fatia * id;
+  *fim = *inicio + tam_fatia;
+  if (*fim > a.num_linhas) *fim = a.num_linhas;
+  return;
+}
+
 void* executa_algoritmo(void* args) {
   int id = *((int*) args);
+  int inicio_iter;
+  int fim_iter;
+  define_limites_iteracao(id, &inicio_iter, &fim_iter);
   while (continua) {
     for (int i = id; i < a.num_linhas; i += num_threads) {
       double somatorio = b.elementos[i];
