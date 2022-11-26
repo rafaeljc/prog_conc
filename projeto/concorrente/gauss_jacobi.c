@@ -113,7 +113,7 @@ void* executa_algoritmo(void* args) {
   int fim_iter;
   define_limites_iteracao(id, &inicio_iter, &fim_iter);
   while (continua) {
-    for (int i = id; i < a.num_linhas; i += num_threads) {
+    for (int i = inicio_iter; i < fim_iter; i++) {
       double somatorio = b.elementos[i];
       for (int j = 0; j < a.num_colunas; j++) {
         if (i != j) 
