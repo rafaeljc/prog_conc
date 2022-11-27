@@ -1,0 +1,300 @@
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005489
+0.00018790
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005912
+0.00027469
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005885
+0.00077806
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00009758
+0.00038329
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00007743
+0.00030803
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005106
+0.00022067
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005114
+0.00023803
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005079
+0.00020264
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005093
+0.00023307
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005123
+0.00024824
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00009681
+0.00034506
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005895
+0.00030154
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005872
+0.00025830
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00009940
+0.00032372
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005453
+0.00024878
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005437
+0.00022673
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00009397
+0.00033574
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005123
+0.00021212
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005113
+0.00021600
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005052
+0.00022988
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005616
+0.00022305
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005892
+0.00024112
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005881
+0.00026351
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005873
+0.00023481
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005887
+0.00023110
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005113
+0.00024236
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005116
+0.00022468
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005088
+0.00022147
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005119
+0.00022619
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005099
+0.00022143
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005120
+0.00022642
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00004770
+0.00020521
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00004774
+0.00020733
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00004763
+0.00020960
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00004770
+0.00020873
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00011921
+0.00030300
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00006860
+0.00024881
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00010871
+0.00034260
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00004766
+0.00020984
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00004781
+0.00020105
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00004776
+0.00022145
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00004777
+0.00021397
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005106
+0.00022632
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005097
+0.00020230
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005096
+0.00020582
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005109
+0.00022874
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005088
+0.00022719
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005094
+0.00020742
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005113
+0.00022529
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 7
+Sucesso!
+0.00005111
+0.00022782

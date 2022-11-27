@@ -50,7 +50,7 @@ int main(int argc, char* argv[]) {
   GET_TIME(tempo_algoritmo);
   tempo_algoritmo -= aux;
 
-  if (sucesso) escreve_arquivo("resultado");
+  if (sucesso) escreve_arquivo("resultado_seq");
   libera_memoria();
   GET_TIME(aux);
   tempo_total = aux - tempo_total;

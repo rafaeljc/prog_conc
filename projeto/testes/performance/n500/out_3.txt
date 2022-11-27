@@ -1,0 +1,300 @@
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00257048
+0.00489643
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00408929
+0.00678286
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00336633
+0.00559594
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00243652
+0.00465098
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00177563
+0.00360151
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00221821
+0.00414275
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00197281
+0.00400198
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00174875
+0.00430399
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00258158
+0.00449646
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00196806
+0.00409432
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00260414
+0.00478784
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00195814
+0.00383952
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00214083
+0.00427270
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00237043
+0.00480888
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00207682
+0.00414442
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00211971
+0.00428036
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00226894
+0.00464407
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00213568
+0.00445566
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00243916
+0.00458655
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00219446
+0.00438716
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00358899
+0.00572648
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00510463
+0.00741269
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00196456
+0.00399216
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00205139
+0.00387059
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00184481
+0.00352588
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00175988
+0.00346091
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00177905
+0.00367684
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00192319
+0.00359017
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00183635
+0.00350368
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00468851
+0.00704290
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00197256
+0.00369606
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00204904
+0.00380240
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00208016
+0.00423437
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00207927
+0.00414480
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00222590
+0.00442693
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00228198
+0.00446512
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00214661
+0.00426752
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00224812
+0.00465329
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00207653
+0.00439768
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00227569
+0.00441208
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00208250
+0.00410721
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00214231
+0.00422771
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00227215
+0.00457282
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00213389
+0.00421887
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00207711
+0.00426643
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00228629
+0.00442031
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00552213
+0.00794705
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00215904
+0.00412875
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00176139
+0.00361327
+-- GAUSS-JACOBI (num_threads: 3, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 4
+Sucesso!
+0.00179801
+0.00349961

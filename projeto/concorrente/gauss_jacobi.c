@@ -64,14 +64,13 @@ bool condicao_parada() {
   static int k = 0; // contador de iterações do algoritmo
   // convergiu para o resultado
   if (calcula_mod_dif(x1, x0) < e) {
-    //printf("k = %d\n", k);
+    printf("k = %d\n", k);
     sucesso = true; 
     return true;
   }
   // limite de iterações
   k++;
   if (k >= max_iter) {
-    //printf("k = %d\n", k);
     return true;
   }
   // para economizar espaço e tempo de alocação dinâmica de memória

@@ -1,0 +1,7 @@
+./gauss-jacobi A b -e 0.05 > out.txt
+-- GAUSS-JACOBI (num_threads: 2, e: 5.000000e-02, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 5
+Sucesso!
+0.00037724
+0.00049448

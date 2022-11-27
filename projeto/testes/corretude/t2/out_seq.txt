@@ -1,0 +1,6 @@
+./gauss-jacobi_seq A b > out_seq.txt
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+Não foi possível resolver o sistema linear.
+0.00013087
+0.00016487

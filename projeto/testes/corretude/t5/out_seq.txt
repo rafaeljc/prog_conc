@@ -1,0 +1,7 @@
+./gauss-jacobi_seq A b > out_seq.txt
+-- GAUSS-JACOBI (sequencial, e: 1.000000e-08, max_iter: 2000)
+Tentando resolver o sistema Ax = b...
+k = 0
+Sucesso!
+0.00000237
+0.00027737

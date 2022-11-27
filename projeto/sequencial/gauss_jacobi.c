@@ -75,7 +75,8 @@ void gauss_jacobi() {
     }
     // verifica condição de parada
     if (calcula_mod_dif(x1, x0) < e) {
-      sucesso = true; 
+      printf("k = %d\n", k);
+      sucesso = true;
       return;
     } else {
       // para economizar espaço e tempo de alocação dinâmica de memória
