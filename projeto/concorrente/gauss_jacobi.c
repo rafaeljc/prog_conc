@@ -20,7 +20,6 @@ int max_iter = 2000;
 double e = 1.0 / 100000000.0; // divisão para diminuir erro numérico
 // variáveis para controle e sincronização das threads
 int num_threads = 2; // default
-int contador = 0;
 pthread_mutex_t mutex;
 pthread_cond_t fila_barreira;
 
@@ -83,6 +82,7 @@ bool condicao_parada() {
 }
 
 void barreira() {
+  static int contador = 0;
   pthread_mutex_lock(&mutex);
   contador++;
   if (contador < num_threads) { // se não sou o último
